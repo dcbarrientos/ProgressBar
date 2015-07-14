@@ -99,4 +99,6 @@ public class Bucle implements Runnable{
 	public void setTitulo(String titulo){
 		this.titulo = titulo;
 	}
+	
+	//Linea agregada para verificar el funcionamiento de GitHub.
 }
